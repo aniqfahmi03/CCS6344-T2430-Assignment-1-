@@ -2,10 +2,11 @@
 Databse And Cloud Security
 group 47 
 
-Project Objective
+# Project Objective
+
 To develop a centralized reporting and locating misplaced things by creating a "Lost and Found App" for Multimedia University (MMU).
 
-How to Run the Project
+# How to Run the Project
 
 Install XAMPP or similar (includes PHP, MySQL, Apache).
 Use a web browser like Chrome or Firefox.
